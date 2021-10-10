@@ -2,7 +2,7 @@
 - 👀 I’m interested in PMaking Discord Bots
 - 🌱 I’m currently learning Python ,Js
 - 💞️ I’m looking to collaborate on -----
-- 📫 How to reach me - @yadavaaditya9332@gmail.com
+- 📫 How to reach me - @yadavaditya9332@gmail.com
 
 <!---
 ItzzAdi/ItzzAdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
